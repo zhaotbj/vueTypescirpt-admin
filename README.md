@@ -1,24 +1,10 @@
-# admin
+# 一个typescript vue的后台
 
-## Project setup
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- [x] 登录表单
+- [x] layout分装
+- [x] 导航菜单
+- [x] 路由配置
